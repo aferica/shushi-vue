@@ -1,7 +1,6 @@
 <template>
   <div>
     <div class="mu-banner">
-      <router-link to="/main">
       <img src="../images/bg.png" class="mu-banner-image" width="100%" height="100%"/>
       <div class="mu-logo">
         <img src="../images/logo.png" class="mu-logo-image" alt="">
@@ -35,7 +34,7 @@
       <div class="mu-desc">
         <div class="mu-desc-content">
           <h2 class="mu-desc-title"></h2>
-          <h3 class="mu-desc-sub-title">诱人图片，放松释放压力</h3>
+          <h3 class="mu-desc-sub-title">缤纷图片，放松释放压力</h3>
           <img src="../images/img3.png" class="mu-desc-image" />
         </div>
       </div>
